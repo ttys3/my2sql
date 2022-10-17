@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 
 	"github.com/juju/errors"
-	toolkits "my2sql/toolkits"
+	toolkits "github.com/liuhr/my2sql/toolkits"
 	"github.com/siddontang/go-log/log"
 	"github.com/go-mysql-org/go-mysql/mysql"
         "github.com/go-mysql-org/go-mysql/replication"

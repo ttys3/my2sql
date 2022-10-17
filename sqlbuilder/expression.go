@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/dropbox/godropbox/errors"
-	sqltypes "my2sql/sqltypes"
+	sqltypes "github.com/liuhr/my2sql/sqltypes"
 )
 
 type orderByClause struct {

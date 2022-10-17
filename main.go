@@ -3,7 +3,7 @@ package main
 import (
 	"sync"
 
-	my "my2sql/base"
+	my "github.com/liuhr/my2sql/base"
         "github.com/go-mysql-org/go-mysql/replication"
 )
 

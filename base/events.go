@@ -3,15 +3,15 @@ package base
 import (
 	"bufio"
 	"fmt"
-	"my2sql/sqltypes"
+	"github.com/liuhr/my2sql/sqltypes"
 	"os"
 	"path/filepath"
 	"strings"
 	"sync"
 	"time"
 
-	SQL "my2sql/sqlbuilder"
-	constvar "my2sql/constvar"
+	SQL "github.com/liuhr/my2sql/sqlbuilder"
+	constvar "github.com/liuhr/my2sql/constvar"
 	"github.com/siddontang/go-log/log"
 
 )

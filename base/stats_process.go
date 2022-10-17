@@ -6,8 +6,8 @@ import (
 	"sync"
 	"strings"
 	//"path/filepath"
-	"my2sql/dsql"
-	constvar "my2sql/constvar"
+	"github.com/liuhr/my2sql/dsql"
+	constvar "github.com/liuhr/my2sql/constvar"
 	"github.com/siddontang/go-log/log"
         "github.com/go-mysql-org/go-mysql/replication"
 )

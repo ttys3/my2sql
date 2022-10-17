@@ -9,8 +9,8 @@ import (
 	"regexp"
 	"time"
 
-	constvar "my2sql/constvar"
-	toolkits "my2sql/toolkits"
+	constvar "github.com/liuhr/my2sql/constvar"
+	toolkits "github.com/liuhr/my2sql/toolkits"
 	"github.com/siddontang/go-log/log"
 	"github.com/go-mysql-org/go-mysql/mysql"
         "github.com/go-mysql-org/go-mysql/replication"

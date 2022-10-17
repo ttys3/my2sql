@@ -6,7 +6,7 @@ import (
 	"strings"
 	"github.com/juju/errors"
 	"github.com/siddontang/go-log/log"
-	toolkits "my2sql/toolkits"
+	toolkits "github.com/liuhr/my2sql/toolkits"
 	_ "github.com/go-sql-driver/mysql"
 )
 

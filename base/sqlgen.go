@@ -5,8 +5,8 @@ import (
 	"github.com/siddontang/go-log/log"
 	"github.com/go-mysql-org/go-mysql/mysql"
         "github.com/go-mysql-org/go-mysql/replication"
-	SQL "my2sql/sqlbuilder"
-	toolkits "my2sql/toolkits"
+	SQL "github.com/liuhr/my2sql/sqlbuilder"
+	toolkits "github.com/liuhr/my2sql/toolkits"
 	"strings"
 )
 

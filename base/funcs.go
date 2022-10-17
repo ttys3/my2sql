@@ -10,7 +10,7 @@ import (
 
 	"github.com/siddontang/go-log/log"
 	MyPos "github.com/go-mysql-org/go-mysql/mysql"
-	toolkits "my2sql/toolkits"
+	toolkits "github.com/liuhr/my2sql/toolkits"
 )
 
 func IntSliceToString(iArr []int, sep string, prefix string) string {
